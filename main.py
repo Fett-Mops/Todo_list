@@ -4,7 +4,7 @@ from CTkScrollableDropdown import *
 
 root = ct.CTk()
 WIDTH, HEIGHT = 600,600
-json_loc = 'C:/Users/mirco/OneDrive/Dokumente/GitHub/Todo_list/'
+json_loc = 'C:/your/path/to/jason/'
 
 #works But neds finishing touch
 
