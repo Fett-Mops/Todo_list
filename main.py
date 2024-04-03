@@ -4,7 +4,7 @@ from CTkScrollableDropdown import *
 
 root = ct.CTk()
 WIDTH, HEIGHT = 600,600
-json_loc = 'C:/your/path/to/jason//'
+json_loc = 'C:/your/path/to/jason/'
 
 #works But neds finishing touch
 
