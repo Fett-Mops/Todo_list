@@ -1,0 +1,677 @@
+[
+    "Hexcore",
+    {
+        "Elecktrotechnick": [
+            [
+                "FFT",
+                false
+            ],
+            [
+                "Spektralanalyse",
+                false
+            ],
+            [
+                "Filterdesigne",
+                false
+            ],
+            [
+                "Modulation, De-",
+                false
+            ],
+            [
+                "Modulationstechniken (AM, FM, PM)",
+                false
+            ],
+            [
+                "Digitale Kommunikationstechniken (ASK, FSK, PSK)",
+                false
+            ],
+            [
+                "Signalverarbeitung in Kommunikationssystemen",
+                false
+            ]
+        ],
+        "Schule Elecktrotechnick": [
+            [
+                "One Note :  Umformer",
+                false
+            ],
+            [
+                "One Note :  Kapazit\u00e4t",
+                false
+            ],
+            [
+                "One Note :  Magnetismus",
+                false
+            ],
+            [
+                "One Note :  Automation vervollst\u00e4ndigen",
+                false
+            ],
+            [
+                "One Note :  Werkstofftechnick",
+                false
+            ],
+            [
+                "One Note : Sicherheitssysteme",
+                false
+            ]
+        ],
+        "Altes elektronisches": [
+            [
+                "Wecker mit RasPI",
+                false
+            ],
+            [
+                "Wie Stromz\u00e4hler funktioniert",
+                false
+            ],
+            [
+                "Lager system",
+                false
+            ],
+            [
+                "TV-> Oszilator",
+                false
+            ],
+            [
+                "Jubilate 8",
+                false
+            ]
+        ],
+        "Excle": [
+            [
+                "Visual Code",
+                false
+            ],
+            [
+                "Datenvalidierung und -bereinigung",
+                false
+            ],
+            [
+                "Library Management system",
+                false
+            ],
+            [
+                "Student grading system",
+                false
+            ]
+        ],
+        "Hexcore": [
+            [
+                "Alles Drucken",
+                false
+            ],
+            [
+                "Billder preparieren",
+                false
+            ],
+            [
+                "Zussammen F\u00fcgen",
+                false
+            ],
+            [
+                "Gold Anzeichnen",
+                false
+            ],
+            [
+                "Halter Designen",
+                false
+            ]
+        ],
+        "3D-Drucken": [
+            [
+                "Geschencke?",
+                false
+            ],
+            [
+                "Arbeits Hose",
+                false
+            ],
+            [
+                "Wecker Batteriehalter",
+                false
+            ],
+            [
+                "swich halter",
+                false
+            ],
+            [
+                "3D-Drucker Modifikation",
+                false
+            ]
+        ],
+        "Lesen": [
+            [
+                "Der Apperat",
+                false
+            ],
+            [
+                "Black Death",
+                false
+            ],
+            [
+                "Die Wirtschftswelt der zukunft",
+                false
+            ],
+            [
+                "Roxy",
+                false
+            ]
+        ],
+        "LeetCode": [
+            [
+                "1 : Two Sum",
+                false
+            ],
+            [
+                "7 : Reverse Integer",
+                false
+            ],
+            [
+                "9 : Palindrome Number",
+                false
+            ],
+            [
+                "13 : Roman to Integer",
+                false
+            ],
+            [
+                "14 : Longest Common Prefix",
+                false
+            ],
+            [
+                "20 : Valid Parentheses",
+                false
+            ],
+            [
+                "21 : Merge Two Sorted Lists",
+                false
+            ],
+            [
+                "26 : Remove Duplicates from Sorted Array",
+                false
+            ],
+            [
+                "27 : Remove Element",
+                false
+            ],
+            [
+                "28 : Implement strStr() (Substring Needle in Haystack)",
+                false
+            ],
+            [
+                "35 : Search Insert Position",
+                false
+            ],
+            [
+                "38 : Count and Say",
+                false
+            ],
+            [
+                "53 : Maximum Subarray",
+                false
+            ],
+            [
+                "58 : Length of Last Word",
+                false
+            ],
+            [
+                "66 : Plus One",
+                false
+            ],
+            [
+                "69 : Sqrt(x)",
+                false
+            ],
+            [
+                "70 : Climbing Stairs",
+                false
+            ],
+            [
+                "88 : Merge Sorted Array",
+                false
+            ],
+            [
+                "118 : Pascal's Triangle",
+                false
+            ],
+            [
+                "121 : Best Time to Buy and Sell Stock",
+                false
+            ],
+            [
+                "136 : Single Number",
+                false
+            ],
+            [
+                "169 : Majority Element",
+                false
+            ],
+            [
+                "171 : Excel Sheet Column Number",
+                false
+            ],
+            [
+                "168 : Excel Sheet Column Title",
+                false
+            ],
+            [
+                "172 : Factorial Trailing Zeroes",
+                false
+            ],
+            [
+                "202 : Happy Number",
+                false
+            ],
+            [
+                "231 : Power of Two",
+                false
+            ],
+            [
+                "242 : Valid Anagram",
+                false
+            ],
+            [
+                "268 : Missing Number",
+                false
+            ],
+            [
+                "876 : Middle of the Linked List",
+                false
+            ],
+            [
+                "977 : Squares of a Sorted Array",
+                false
+            ],
+            [
+                "104 : Maximum Depth of Binary Tree",
+                false
+            ],
+            [
+                "1365 : How Many Numbers Are Smaller Than the Current Number",
+                false
+            ],
+            [
+                "1370 : Increasing Decreasing String",
+                false
+            ],
+            [
+                "1394 : Find Lucky Integer in an Array",
+                false
+            ],
+            [
+                "1413 : Minimum Value to Get Positive Step by Step Sum",
+                false
+            ],
+            [
+                "1431 : Kids With the Greatest Number of Candies",
+                false
+            ],
+            [
+                "1436 : Destination City",
+                false
+            ],
+            [
+                "1470 : Shuffle the Array",
+                false
+            ],
+            [
+                "1480 : Running Sum of 1d Array",
+                false
+            ],
+            [
+                "1512 : Number of Good Pairs",
+                false
+            ],
+            [
+                "1528 : Shuffle String",
+                false
+            ],
+            [
+                "1534 : Count Good Triplets",
+                false
+            ],
+            [
+                "1550 : Three Consecutive Odds",
+                false
+            ],
+            [
+                "1572 : Matrix Diagonal Sum",
+                false
+            ],
+            [
+                "1603 : Design Parking System",
+                false
+            ],
+            [
+                "1614 : Maximum Nesting Depth of the Parentheses",
+                false
+            ],
+            [
+                "1672 : Richest Customer Wealth",
+                false
+            ],
+            [
+                "1678 : Goal Parser Interpretation",
+                false
+            ],
+            [
+                "1684 : Count the Number of Consistent Strings",
+                false
+            ],
+            [
+                "1688 : Count of Matches in Tournament",
+                false
+            ],
+            [
+                "1694 : Reformat Phone Number",
+                false
+            ],
+            [
+                "1700 : Number of Students Unable to Eat Lunch",
+                false
+            ],
+            [
+                "1710 : Maximum Units on a Truck",
+                false
+            ],
+            [
+                "1720 : Decode XORed Array",
+                false
+            ],
+            [
+                "1732 : Find the Highest Altitude",
+                false
+            ],
+            [
+                "1742 : Maximum Number of Balls in a Box",
+                false
+            ],
+            [
+                "1748 : Sum of Unique Elements",
+                false
+            ],
+            [
+                "1752 : Check if Array Is Sorted and Rotated",
+                false
+            ],
+            [
+                "1768 : Merge Strings Alternately",
+                false
+            ],
+            [
+                "1773 : Count Items Matching a Rule",
+                false
+            ],
+            [
+                "1784 : Check if Binary String Has at Most One Segment of Ones",
+                false
+            ],
+            [
+                "1796 : Second Largest Digit in a String",
+                false
+            ],
+            [
+                "1805 : Number of Different Integers in a String",
+                false
+            ],
+            [
+                "1812 : Determine Color of a Chessboard Square",
+                false
+            ],
+            [
+                "1816 : Truncate Sentence",
+                false
+            ],
+            [
+                "1822 : Sign of the Product of an Array",
+                false
+            ],
+            [
+                "1827 : Minimum Operations to Make the Array Increasing",
+                false
+            ],
+            [
+                "1832 : Check if the Sentence Is Pangram",
+                false
+            ],
+            [
+                "1837 : Sum of Digits in Base K",
+                false
+            ],
+            [
+                "1844 : Replace All Digits with Characters",
+                false
+            ],
+            [
+                "1848 : Minimum Distance to the Target Element",
+                false
+            ],
+            [
+                "1859 : Sorting the Sentence",
+                false
+            ],
+            [
+                "1876 : Substrings of Size Three with Distinct Characters",
+                false
+            ],
+            [
+                "1880 : Check if Word Equals Summation of Two Words",
+                false
+            ],
+            [
+                "1893 : Check if All the Integers in a Range Are Covered",
+                false
+            ],
+            [
+                "1903 : Largest Odd Number in String",
+                false
+            ],
+            [
+                "1913 : Maximum Product Difference Between Two Pairs",
+                false
+            ],
+            [
+                "1920 : Build Array from Permutation",
+                false
+            ],
+            [
+                "1925 : Count Square Sum Triples",
+                false
+            ],
+            [
+                "1935 : Maximum Number of Words You Can Type",
+                false
+            ],
+            [
+                "1941 : Check if All Characters Have Equal Number of Occurrences",
+                false
+            ],
+            [
+                "1945 : Sum of Digits of String After Convert",
+                false
+            ],
+            [
+                "1952 : Three Divisors",
+                false
+            ],
+            [
+                "1957 : Delete Characters to Make Fancy String",
+                false
+            ],
+            [
+                "1961 : Check If String Is a Prefix of Array",
+                false
+            ],
+            [
+                "1964 : Find the Longest Valid Obstacle Course at Each Position",
+                false
+            ],
+            [
+                "1971 : Find if Path Exists in Graph",
+                false
+            ],
+            [
+                "1976 : Number of Ways to Arrive at Destination",
+                false
+            ],
+            [
+                "1984 : Minimum Difference Between Highest and Lowest of K Scores",
+                false
+            ],
+            [
+                "1989 : Maximum Number of People That Can Be Caught in Tag",
+                false
+            ],
+            [
+                "1991 : Find the Middle Index in Array",
+                false
+            ],
+            [
+                "1995 : Count Special Quadruplets",
+                false
+            ],
+            [
+                "1999 : Smallest Greater Multiple Made of Two Digits",
+                false
+            ],
+            [
+                "2006 : Count Number of Pairs With Absolute Difference K",
+                false
+            ],
+            [
+                "2011 : Final Value of Variable After Performing Operations",
+                false
+            ],
+            [
+                "2016 : Maximum Difference Between Increasing Elements",
+                false
+            ],
+            [
+                "2024 : Maximize the Confusion of an Exam",
+                false
+            ],
+            [
+                "2028 : Find Missing Observations",
+                false
+            ],
+            [
+                "2032 : Two Out of Three",
+                false
+            ],
+            [
+                "2037 : Minimum Number of Moves to Seat Everyone",
+                false
+            ],
+            [
+                "2042 : Check if Numbers Are Ascending in a Sentence",
+                false
+            ],
+            [
+                "2046 : Minimum Absolute Sum Difference",
+                false
+            ],
+            [
+                "2049 : Number of Ways to Split a String",
+                false
+            ],
+            [
+                "2054 : Determine if String Halves Are Alike",
+                false
+            ],
+            [
+                "2061 : Check if Move is Legal",
+                false
+            ],
+            [
+                "2066 : Detect Squares",
+                false
+            ],
+            [
+                "2071 : Number of Wonderful Substrings",
+                false
+            ],
+            [
+                "2079 : Remove One Element to Make the Array Strictly Increasing",
+                false
+            ],
+            [
+                "2082 : Swap Adjacent in LR String",
+                false
+            ],
+            [
+                "2088 : Convert 1D Array Into 2D Array",
+                false
+            ],
+            [
+                "2090 : Second Minimum Time to Reach Destination",
+                false
+            ],
+            [
+                "2094 : Minimum Non-Zero Product of the Array Elements",
+                false
+            ],
+            [
+                "2099 : Number of Different Subsequences GCDs",
+                false
+            ],
+            [
+                "2104 : Check if a Number Is Majority Element in a Sorted Array",
+                false
+            ],
+            [
+                "2113 : Maximum Value after Insertion",
+                false
+            ],
+            [
+                "2117 : Check if Number is a Sum of Powers of Three",
+                false
+            ],
+            [
+                "2125 : Minimum Operations to Reduce X to Zero",
+                false
+            ],
+            [
+                "2132 : Check if a Number is Majority Element in a Sorted Array",
+                false
+            ],
+            [
+                "2136 : Count Number of Pairs With Absolute Difference Between Them Equal to a Prime Number",
+                false
+            ],
+            [
+                "2141 : The k Strongest Values in an Array",
+                false
+            ],
+            [
+                "2145 : Get the Maximum Score",
+                false
+            ],
+            [
+                "2149 : Get Maximum in Generated Array",
+                false
+            ],
+            [
+                "2153 : Determine if String Halves Are Alike",
+                false
+            ],
+            [
+                "2156 : Closest Subsequence Sum",
+                false
+            ],
+            [
+                "2159 : Count of Matches in a Tournament II",
+                false
+            ],
+            [
+                "2164 : Minimum Deletions to Make Character Frequencies Unique",
+                false
+            ],
+            [
+                "",
+                false
+            ]
+        ]
+    }
+]
