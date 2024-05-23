@@ -4,7 +4,7 @@ from CTkScrollableDropdown import *
 
 root = ct.CTk()
 WIDTH, HEIGHT = 600,600
-json_loc = 'C:/your/path/to/jason/'
+json_loc = os.getcwd()
 
 #works But neds finishing touch
 
@@ -31,7 +31,7 @@ def read_json(path:str)->any:
 
 def add(text):
     lis[dic].append([text.get(),False])
-    write_json(json_loc+file, lis)
+    write_json(os.path.join(json_loc,file), lis)
     fo(len(lis[dic])-1,lis[dic][-1])
     
 def disa(index):
@@ -42,7 +42,7 @@ def disa(index):
     else:
         frm[index].configure(fg_color=grey_disa) 
         lis[dic][index][1] = 0
-    write_json(json_loc+file, lis)
+    write_json(os.path.join(json_loc,file), lis)
             
 def fo(i,t):
     l.append(ct.Variable())
@@ -66,10 +66,10 @@ def dele(i):
     frm[i].destroy()
     lis[dic].pop(i)
     frame.update()
-    write_json(json_loc+file, lis)
+    write_json(os.path.join(json_loc,file), lis)
     for child in frame.winfo_children():
         child.destroy()
-    read_json(json_loc+file)
+    read_json(os.path.join(json_loc,file))
     for i,t in enumerate(lis[dic]):
         fo(i,t)
 
@@ -83,7 +83,7 @@ def men(d):
     
         for i,t in enumerate(lis[dic]):
             fo(i,t)
-        write_json(json_loc+file,lis)
+        write_json(os.path.join(json_loc,file),lis)
     else:
         new()    
 def new():
@@ -100,8 +100,8 @@ def new():
         
     r.set(dic)
     lis[dic] = []
-    write_json(json_loc+file,lis)
-    lis =read_json(json_loc+file)
+    write_json(os.path.join(json_loc,file),lis)
+    lis =read_json(os.path.join(json_loc,file))
 
     s = list(lis.keys())
     
@@ -116,8 +116,8 @@ def delm():
   
     dic = list(lis.keys())[0]
     r.set(dic)
-    write_json(json_loc+file,lis)
-    lis = read_json(json_loc+file)
+    write_json(os.path.join(json_loc,file),lis)
+    lis = read_json(os.path.join(json_loc,file))
     s = list(lis.keys())
     
     s.append('new')
@@ -128,7 +128,7 @@ def delm():
 global lis, menue
 
 
-lis = read_json(json_loc+file)
+lis = read_json(os.path.join(json_loc,file))
 
 root.geometry(f'{WIDTH}'+'x'+f'{HEIGHT}')
 root.grid_columnconfigure(0, weight=1)
