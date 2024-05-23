@@ -1,13 +1,57 @@
 [
-    "Work",
+    "Audio Importer",
     {
-        "Work": [
+        "Audio Importer": [
             [
-                "work_1",
+                "Import audio files (wav, ogg, ect) into usable format",
                 false
             ],
             [
-                "work_2",
+                "Utilize OpenAl to load audio data from file streams",
+                false
+            ],
+            [
+                "Convert audio files into one global usable format",
+                false
+            ]
+        ],
+        "Audio Contaiers : Asset": [
+            [
+                "Provide editing functionalities",
+                false
+            ],
+            [
+                "store imported audio data and metadata",
+                false
+            ],
+            [
+                "Include functions for(splicing, lenght, seek)",
+                false
+            ]
+        ],
+        "Audio Manager": [
+            [
+                "Manage playback, effects and transisions",
+                false
+            ],
+            [
+                "Play Audio(Positional, Direct)",
+                false
+            ],
+            [
+                "Mix Ahead(Multiple sources, Queue System)",
+                false
+            ],
+            [
+                "cancle playback",
+                false
+            ],
+            [
+                "Transitions between tracks/ sections",
+                false
+            ],
+            [
+                "EFX library integration",
                 false
             ]
         ]
