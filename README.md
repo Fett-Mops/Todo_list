@@ -1,2 +1,2 @@
 # Todo_list
- Made a Todo list in Customtkinter
+Using TODO list i made in CTk
